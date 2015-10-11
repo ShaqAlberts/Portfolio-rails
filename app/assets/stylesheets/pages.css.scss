@@ -1,3 +1,42 @@
 // Place all the styles related to the Pages controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+
+     .btn { 
+             display: inline;
+              padding: 20px 40px;
+              border: 1px solid none;
+              background-color: #333333;
+              color: white;
+              text-decoration: none;
+             text-align:center;
+             line-height: 7em;}
+        
+        .nav li { 
+        display: inline;
+        margin: 0px 0px 0px 90px;
+        }
+        
+       .header {
+       background-color: grey;
+       margin: 0px 0px 0px 0px;
+       padding: 30px 30px 30px 30px;}
+          
+ .jumbotron { 
+margin-bottom: 0px;
+height: 500px;
+ background-size: cover;
+ background-image:      url(https://upload.wikimedia.org/wikipedia/commons/4/4f/Boston_skyline_from_Museum_of_Science_garage_roof_-_HDR.jpg);}
+
+
+.main h1 {
+font-family: "Times New Roman", Times, serif;
+color: white;}
+ 
+ .footer {
+ background-color: grey;
+ padding: 100px 100px 100px 100px}
+  
+ .container {
+  text-align: center;}
+  
